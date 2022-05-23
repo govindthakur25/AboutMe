@@ -68,9 +68,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://vitasha.tk"><img src="https://img.shields.io/badge/-vitasha.tk-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:my@vitasha.tk"><img src="https://img.shields.io/badge/-my@vitasha.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/Hack2166"><img src="https://img.shields.io/badge/-Hack2166-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://instagram.com/vitasha123/"><img src="https://img.shields.io/badge/-vitasha123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://vk.com/vitasha123"><img src="https://img.shields.io/badge/-vitasha123-blue?style=flat&logo=VK&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/govind-singh-thakur-63441928/"><img src="https://www.flaticon.com/free-icon/linkedin_174857"></a>
 </p>
